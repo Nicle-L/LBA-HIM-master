@@ -38,3 +38,12 @@ please change the dataset paths as per our step by step procedure to ensure smoo
 
 [1] Guo, Y., Tao, Y., Chong, Y., Pan, S., & Liu, M. (2023). "Edge-Guided Hyperspectral Image Compression With Interactive Dual Attention." IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-17.
 DOI: 10.1109/TGRS.2022.3233375.
+## Citation
+
+If you find this work useful for your research, please consider citing our paper:
+
+J. Liu, L. Zhang, J. Wang, and L. Qu,  
+“Lightweight Band-Adaptive Hyperspectral Image Compression With Feature Decouple and Recurrent Model,”  
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*,  
+vol. 18, pp. 16733–16749, 2025.  
+doi: 10.1109/JSTARS.2025.358493
