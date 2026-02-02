@@ -42,8 +42,4 @@ DOI: 10.1109/TGRS.2022.3233375.
 
 If you find this work useful for your research, please consider citing our paper:
 
-J. Liu, L. Zhang, J. Wang, and L. Qu,  
-“Lightweight Band-Adaptive Hyperspectral Image Compression With Feature Decouple and Recurrent Model,”  
-*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*,  
-vol. 18, pp. 16733–16749, 2025.  
-doi: 10.1109/JSTARS.2025.358493
+J. Liu, L. Zhang, J. Wang, and L. Qu,  “Lightweight Band-Adaptive Hyperspectral Image Compression With Feature Decouple and Recurrent Model,”  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*,  vol. 18, pp. 16733–16749, 2025.  doi: 10.1109/JSTARS.2025.358493
